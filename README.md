@@ -26,3 +26,9 @@ In this the models are evaluated an RTX3090ti on the available datasets on the H
   <img src="https://github.com/user-attachments/assets/926beee4-e891-40b7-abc3-9a354ba6d408" width="350" title="Stable Diffusion">
   <img src="https://github.com/user-attachments/assets/6328b061-bbfc-4c05-b80b-a09185bbc09e" width="350" title="Deep Seek">
 </p>
+
+3. Create a mockup cosmetic product bottle with a translucent finish and soft pastel color. Incorporate smooth shadows and soft reflections to give it a luxurious feel.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2acfca57-27f0-4448-8315-85726055f2f2" width="350" title="Stable Diffusion">
+  <img src="https://github.com/user-attachments/assets/8aac6fb0-d459-40b1-83e5-1bb4acd61cfe" width="350" title="Deep Seek">
+</p>
