@@ -21,3 +21,8 @@ In this the models are evaluated an RTX3090ti on the available datasets on the H
   <img src="https://github.com/user-attachments/assets/696ac8b0-a318-4ecb-879e-b8c0afffa7b1" width="350" title="Deep Seek">
 </p>
 
+2. Generate an image with an aerial view of a coastal town capturing the contrast between the vibrant blue ocean and soft pastel colors of the rooftop. The overall scene should feel peaceful and bright.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/926beee4-e891-40b7-abc3-9a354ba6d408" width="350" title="Stable Diffusion">
+  <img src="https://github.com/user-attachments/assets/6328b061-bbfc-4c05-b80b-a09185bbc09e" width="350" title="Deep Seek">
+</p>
