@@ -15,4 +15,9 @@ In this the models are evaluated an RTX3090ti on the available datasets on the H
 12. accelerate
 13. bitsandbytes
 # Results
-Check the provided video for the result
+1. Make a bold Facebook advertisement for a flash sale using bright red and white colors. Keep the design minimal but impactful with large bold text in a modern Times New Roman font.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22a68abf-296c-4e26-917e-b198be7eede3" width="350" title="Stable Diffusion">
+  <img src="https://github.com/user-attachments/assets/696ac8b0-a318-4ecb-879e-b8c0afffa7b1" width="350" title="Deep Seek">
+</p>
+
